@@ -1,6 +1,14 @@
 # DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments
-
+<div align="center">
+    
+SII, SJTU, GAIR
+    
+<div align="left">
+    
 This is the official repository for [DeepResearcher](https://arxiv.org/abs/2504.03160).
+
+
+    
 ## 📝 Introduction
 
 DeepResearcher is the first comprehensive framework for end-to-end training of LLM-based deep research agents through scaling reinforcement learning (RL) in real-world environments with authentic web search interactions. Our qualitative analysis reveals emergent **cognitive behaviors** from end-to-end RL training, including the ability to formulate plans, cross-validate information from multiple sources, engage in self-reflection to redirect research, and maintain honesty when unable to find definitive answers.
